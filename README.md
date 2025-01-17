@@ -116,3 +116,7 @@ Ausgaben:
 * Google-Docs für Helferschichten
 * Kontakt Sportkreisjugend
 * Spülmaschinenbedienung
+
+# Supporter
+* Andreas Schuele (Bereitwilliger Obstschnibbler)
+ 
